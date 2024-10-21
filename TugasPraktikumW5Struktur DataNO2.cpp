@@ -82,3 +82,5 @@ int main() {
 }
 
 // komentar
+
+// komentar 2
